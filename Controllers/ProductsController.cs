@@ -1,12 +1,12 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using MyMvcApp.Data;
-using MyMvcApp.Models;
+using StoreManagementSystem.Data;
+using StoreManagementSystem.Models;
 using System.Linq;
 using System.Threading.Tasks;
 using ClosedXML.Excel;
 using System.IO;
-namespace MyMvcApp.Controllers
+namespace StoreManagementSystem.Controllers
 {
     public class ProductsController : Controller
     {
