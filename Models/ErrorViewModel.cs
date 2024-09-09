@@ -1,4 +1,4 @@
-namespace MyMvcApp.Models;
+namespace StoreManagementSystem.Models;
 
 public class ErrorViewModel
 {
