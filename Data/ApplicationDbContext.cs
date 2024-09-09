@@ -1,8 +1,7 @@
-// File: Data/ApplicationDbContext.cs
 using Microsoft.EntityFrameworkCore;
-using MyMvcApp.Models;
+using StoreManagementSystem.Models;
 
-namespace MyMvcApp.Data
+namespace StoreManagementSystem.Data
 {
     public class ApplicationDbContext : DbContext
     {
