@@ -1,4 +1,4 @@
-using MyMvcApp.Data; 
+using StoreManagementSystem.Data; 
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
