@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace MyMvcApp.Models
+namespace StoreManagementSystem.Models
 {
     public class Product
     {
