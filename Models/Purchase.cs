@@ -2,7 +2,7 @@ using System;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace MyMvcApp.Models
+namespace StoreManagementSystem.Models
 {
     public class Purchase
     {
